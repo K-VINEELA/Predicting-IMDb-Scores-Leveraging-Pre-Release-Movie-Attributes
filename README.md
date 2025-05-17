@@ -4,10 +4,10 @@ A machine learning framework to predict IMDb ratings using only pre-release movi
 
 ---
 
-## 🚀 Deployment Details
+---
 
 - **Project Collaborators**: Jaswanth Kranthi Boppana, Vishnuvardhan Reddy Kollu, Vineela Kunisetti
-- **Repository URL**: *[Insert Your GitHub Repo Link]*
+
 
 ---
 
