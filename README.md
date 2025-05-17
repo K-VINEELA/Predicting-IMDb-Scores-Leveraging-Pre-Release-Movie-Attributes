@@ -2,7 +2,7 @@
 
 A machine learning framework to predict IMDb ratings using only pre-release movie data. Built using advanced regression and classification models, enriched with GPT-based interpretability to assist filmmakers with actionable insights.
 
----
+
 
 ---
 
